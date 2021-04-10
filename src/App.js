@@ -6,14 +6,14 @@ import Accordion from "./components/Accordion";
 const items = [
   {
     title: "What is React?",
-    content: "React is a front end js library",
+    content: "React is an open-source, front end, JavaScript library for building user interfaces or UI components.",
   },
   {
     title: "Why use React?",
-    content: "React is the most popular one right now",
+    content: "React is Flexible, React Has a Great Developer Experience, React Has Facebook's Support/Resources, React Has Broader Community Support, Too.",
   },
   {
-    title: "How to learn React?",
+    title: "How to git gud at React?",
     content: "Practice practice practice",
   },
 ];
