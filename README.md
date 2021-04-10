@@ -1,1 +1,1 @@
-A simple implementation of react-hooks.
+A simple implementation of accordion using react-hooks.
